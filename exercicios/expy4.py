@@ -1,0 +1,10 @@
+# análise de caracteres
+pal = input('digite algo: ')
+print('o tipo primitivo é {}'.format(type(pal)))
+print('alfabético?', pal.isalpha())
+print('alfanumérico?', pal.isalnum())
+print('capitalizado?', pal.istitle())
+print('tudo maiúsculo?', pal.isupper())
+print('tudo minusculo?', pal.islower())
+print('é um espaço?', pal.isspace())
+print('são apenas números?', pal.isnumeric())
