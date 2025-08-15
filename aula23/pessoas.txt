@@ -1,0 +1,7 @@
+José;35
+André;19
+Fatima;43
+Camily;18
+Fernando;26
+Hanter;89
+Tainá;69
