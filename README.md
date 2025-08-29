@@ -1,6 +1,6 @@
 # 🐍 Repositório de Estudos — Python 3
 
-Bem-vindo(a) ao meu repositório de estudos de Pyhton 3!  
+Bem-vindo(a) ao meu repositório de estudos de Python 3!  
 Aqui você vai encontrar **todo o meu progresso no aprendizado de Python 3**, com **mais de 20 aulas anotadas** e **mais de 100 exercícios práticos** que desenvolvi ao longo do curso.
 
 Grande parte do meu aprendizado foi adquirido nas aulas do site [Curso em Vídeo](https://www.cursoemvideo.com/), que são ministradas pelo incrível Professor [Gustavo Guanabara](https://github.com/gustavoguanabara) (o cara é fera demais!!!!)
